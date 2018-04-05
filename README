@@ -1,0 +1,19 @@
+TO COMPILE:
+
+javac ConditionalHuffman.java
+
+
+TO RUN:
+
+java ConditionalHuffman [corpusFile]
+
+***DEFAULTS TO MOBY DICK IF NOT PROVIDED***
+
+***Make sure corpus used is in the working directory of the ConditionalHuffman program***
+
+***Input corpus file name as command-line argument***
+
+
+Follow given instructions to choose whether to encode or decode.
+
+
