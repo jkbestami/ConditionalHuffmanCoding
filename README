@@ -11,8 +11,6 @@ the triplet in the corpus. Hence, "conditional".
 
 
 
-
-
 TO COMPILE:
 
 javac ConditionalHuffman.java
